@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Souritri Chatterjee](https:///github.com/Souritri004)
+
+- Place: Andhra Pradesh,India
+- Bio: Second year undergrad persuing B.Tech in Computer Science Engineering
+- GitHub: [Souritri004](https://github.com/Souritri004)
